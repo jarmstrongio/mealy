@@ -6,7 +6,7 @@ Trying to make my life easier by removing the need to decide what to cook for di
 
 A list of the basic functionality I want to implement:
 1. ~~Actually turn the list of meals into a meal plan like the application is supposed to.~~ **DONE**
-2. Utilise the weighting field to make some meals more likly than others.
+2. ~~Utilise the weighting field to make some meals more likely than others.~~ **DONE**
 3. Add the ingredients and cooking instructions to the provided meals.json examples.
 4. Generate shopping lists based on the contents of the `ingredients` JSON field.
 5. Reduce the liklihood of repeated ingredients from day to day (So I don't eat pasta all week...).
