@@ -5,7 +5,7 @@ Trying to make my life easier by removing the need to decide what to cook for di
 ## Intended features
 
 A list of the basic functionality I want to implement:
-1. Actually turn the list of meals into a meal plan like the application is supposed to.
+1. ~~Actually turn the list of meals into a meal plan like the application is supposed to.~~ **DONE**
 2. Utilise the weighting field to make some meals more likly than others.
 3. Add the ingredients and cooking instructions to the provided meals.json examples.
 4. Generate shopping lists based on the contents of the `ingredients` JSON field.
