@@ -3,85 +3,85 @@
         {
             "name": "Chicken in White Sauce",
             "weighting": 3,
-            "ingredients": ["TBD"],
+            "ingredients": ["Quorn chicken pieces", "Onion", "Milk", "Peas", "Carrots"],
             "recipe": ["TBD"]
         },
         {
             "name": "Sausage and Chips",
             "weighting": 3,
-            "ingredients": ["TBD"],
+            "ingredients": ["Sausages", "Vegetarian Sausages", "Chips", "Carrots"],
             "recipe": ["TBD"]
         },
         {
             "name": "Fish fingers/Chicken Dippers and Chips",
             "weighting": 2,
-            "ingredients": ["TBD"],
+            "ingredients": ["Fish Fingers","Chicken Dippers", "Vegetarian Sausages", "Chips", "Carrots"],
             "recipe": ["TBD"]
         },
         {
             "name": "Dahl and Rice",
             "weighting": 1,
-            "ingredients": ["TBD"],
+            "ingredients": ["Rise", "Lentils", "Ginger"],
             "recipe": ["TBD"]
         },
         {
             "name": "Baked Potato with beans",
             "weighting": 3,
-            "ingredients": ["TBD"],
+            "ingredients": ["Potatoes", "Baked beans", "Chedder"],
             "recipe":["TBD"]
         },
         {
             "name": "Baked Potato with tuna",
             "weighting": 2,
-            "ingredients": ["TBD"],
+            "ingredients": ["Potatoes", "Tinned Tuna (in oil)", "Mayonaise", "Sweetcorn"],
             "recipe":["TBD"]
         },
         {
             "name": "Omlette",
             "weighting": 2,
-            "ingredients": ["TBD"],
+            "ingredients": ["Eggs", "Cheese"],
             "recipe":["TBD"]
         },
         {
             "name": "Chicken fajitas",
             "weighting": 1,
-            "ingredients": ["TBD"],
+            "ingredients": ["Quorn chicken pieces", "Peppers", "Onion", "Old El Paso fajita mix"],
             "recipe":["TBD"]
         },
         {
             "name": "Pizza",
             "weighting": 3,
-            "ingredients": ["TBD"],
+            "ingredients": ["Pizza"],
             "recipe":["TBD"]
         },
         {
             "name": "Lasagne",
             "weighting": 1,
-            "ingredients": ["TBD"],
+            "ingredients": ["Lasagne sheets", "Béchamel sauce", "Quorn mince", "Mozarella", "Carrots", "Onion"],
             "recipe":["TBD"]
         },
         {
             "name": "Tomato Pasta",
             "weighting": 3,
-            "ingredients": ["TBD"],
+            "ingredients": ["Pasta", "Tomato sauce", "Chedder"],
             "recipe":["TBD"]
         },
         {
             "name": "Pasta and Bolognese",
             "weighting": 2,
-            "ingredients": ["TBD"],
+            "ingredients": ["Pasta", "Quorn mince", "Tinned chopped tomatoes", "Onion", "Courgette", "Carrots"],
             "recipe":["TBD"]
         },
         {
             "name": "Stir-Fry with noodles",
             "weighting": 2,
-            "ingredients": ["TBD"],
+            "ingredients": ["Noodles", "Stir fry vegetables"],
             "recipe":["TBD"]
         },
         {
             "name": "Stir-Fry with rice",
             "weighting": 2,
-            "ingredients": ["TBD"],
+            "ingredients": ["Rice", "Stir fry vegetables"],
             "recipe":["TBD"]
         }
     ]
