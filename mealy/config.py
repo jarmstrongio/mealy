@@ -1,3 +1,0 @@
-import web
-
-cache = False
