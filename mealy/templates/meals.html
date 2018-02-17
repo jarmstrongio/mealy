@@ -1,0 +1,11 @@
+$def with (meals)
+<html>
+<head>
+    <title>Mealy/</title>
+</head>
+
+<body>
+    $for meal in meals:
+        $:render.mealitem(meal)
+</body>
+</html>

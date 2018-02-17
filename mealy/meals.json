@@ -63,12 +63,12 @@
         {
             "name": "Stir-Fry with noodles",
             "weighting": 2,
-            "ingredients": ["Noodles", "Stir fry vegetables"]
+            "ingredients": ["Noodles", "Stir fry vegetables", "Tofu" ]
         },
         {
             "name": "Stir-Fry with rice",
             "weighting": 2,
-            "ingredients": ["Rice", "Stir fry vegetables"]
+            "ingredients": ["Rice", "Stir fry vegetables", "Tofu"]
         }
     ]
 }

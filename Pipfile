@@ -7,6 +7,9 @@ name = "pypi"
 
 [packages]
 
+webpy-master = {git = "git://github.com/webpy/webpy.git", editable = true}
+pylint = "*"
+
 
 [dev-packages]
 

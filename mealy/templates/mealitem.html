@@ -1,0 +1,8 @@
+$def with (meal)
+    <div>    
+        <h2>$meal['name']</h2>
+        <ul>
+            $for ingredient in meal['ingredients']
+            <li>$ingredient</li>
+        </ul>
+    </div>
