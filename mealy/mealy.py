@@ -7,6 +7,7 @@ from meals import generate_meal_list
 from ingredients import generate_shopping_list
 from view import render
 
+import json
 import web
 
 urls = (
@@ -20,7 +21,7 @@ class raw:
         MEAL_LIST = generate_meal_list(MEALS)
         SHOPPING_LIST = generate_shopping_list(MEAL_LIST)
 
-        result = {'meals':MEAL_LIST, 'shopping':SHOPPING_LIST}
+        result = json.dumps({"meals":MEAL_LIST, "shopping":SHOPPING_LIST} , ensure_ascii=False)
 
         # Prevents an No 'Access-Control-Allow-Origin' warning
         web.header('Access-Control-Allow-Origin', '*')
