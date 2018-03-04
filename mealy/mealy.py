@@ -22,6 +22,10 @@ class raw:
 
         result = {'meals':MEAL_LIST, 'shopping':SHOPPING_LIST}
 
+        # Prevents an No 'Access-Control-Allow-Origin' warning
+        web.header('Access-Control-Allow-Origin', '*')
+        web.header('Access-Control-Allow-Credentials', 'true')
+
         return render.raw(result)
 
 class display:
