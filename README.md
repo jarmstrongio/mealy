@@ -2,6 +2,12 @@
 
 Trying to make my life easier by removing the need to decide what to cook for dinner.
 
+## Running tests
+
+Yes I wrote unit tests... They're in the `tests` directory.
+Run all:
+`python -m unittest discover tests`
+
 ## Intended features
 
 A list of the basic functionality I want to implement:
